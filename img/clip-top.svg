@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 123 171" width="123" height="171">
+	<title>design &amp; elements</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #242439;stroke-width: 10 } 
+	</style>
+	<g id="design &amp; elements">
+		<g id="elements">
+			<path id="Rounded Rectangle 1 copy 2" class="shp0" d="M108.18 4.43C122.03 12.44 126.77 30.19 118.77 44.07L54.03 156.48C46.03 170.36 28.33 175.12 14.48 167.11C0.63 159.09 -4.11 141.35 3.88 127.47L68.63 15.05C76.63 1.17 94.33 -3.58 108.18 4.43Z" />
+		</g>
+	</g>
+</svg>

@@ -176,6 +176,34 @@ body {
   height: 100%;
 }
 
+.clip-top,
+.clip-top-white,
+.clip-bottom,
+.clip-bottom-white {
+  height: 7rem;
+  position: absolute;
+  top: -1rem;
+  right: 023rem;
+  width: 6rem;
+}
+
+.clip-top-white {
+  top: -3rem;
+  right: 18.7rem;
+}
+
+.clip-bottom {
+  top: 85%;
+  right: 56%;
+  height: 10rem;
+}
+
+.clip-bottom-white {
+  top: 87%;
+  right: 64%;
+  height: 10rem;
+}
+
 .main__img {
   height: 55rem;
   width: 55rem;
@@ -185,9 +213,6 @@ body {
 }
 
 /* CONTACT */
-
-.contact {
-}
 
 .contact__infos {
   display: flex;
@@ -269,6 +294,13 @@ body {
     width: 50rem;
   }
 
+  .clip-top,
+  .clip-top-white,
+  .clip-bottom,
+  .clip-bottom-white {
+    display: none;
+  }
+
   .shape-from-top {
     background: var(--color-white);
     height: 60rem;
@@ -289,7 +321,7 @@ body {
     height: 18rem;
     width: 18rem;
     padding: 4rem;
-    bottom: -9rem;
+    bottom: -8rem;
   }
 
   .contact {
@@ -330,6 +362,11 @@ body {
     height: 40rem;
     width: 40rem;
     background: var(--color-white-dark);
+  }
+
+  .clipper-bottom,
+  .clipper-bottom-white {
+    display: none;
   }
 
   .contact__info {
