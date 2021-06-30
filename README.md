@@ -72,7 +72,7 @@
 
 ## About The Project
 
-This project was created for me as an exercise to practice my coding skills.
+This project was created as an exercise to practice my coding skills.
 
 Original design taken from [freepik.com](https://www.freepik.com/free-psd/furniture-sale-social-media-instagram-post-template_13472841.htm) (which consists of a PSD and a jpeg file).
 
@@ -100,7 +100,7 @@ To get a local copy up and running follow these simple steps.
 
 To have access to the development environment:
 
-1. Use a code editor of your preference
+1. Use an IDE of your preference
 
 <!-- ROADMAP -->
 
