@@ -31,8 +31,7 @@
   <h3 align="center">Modern Furniture</h3>
 
   <p align="center">
-    Design taken from freepik.com
-    Project built by myself as a personal challenge.
+    Furniture store flyer/social media post turned website.
     <br />
     <a href="https://github.com/rsous/desafioAlura"><strong>Explore the docs »</strong></a>
     <br />
@@ -87,13 +86,6 @@ Original design taken from [freepik.com](https://www.freepik.com/free-psd/furnit
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
